@@ -1,4 +1,4 @@
-""Java-Ejercicios-RESUELTOS""
+""Ejercicios Java""
 
 1.	Crear una clase que se llame Monitor y contenga los siguientes métodos:
 a.	El método se llama imprimir y no recibe ningún argumento e imprime en pantalla “Hola Mundo”.
