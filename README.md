@@ -1,4 +1,6 @@
-""Ejercicios Java""
+# Ejercicios Java
+
+## Ejercicios resueltos para practicar 
 
 1.	Crear una clase que se llame Monitor y contenga los siguientes métodos:
 a.	El método se llama imprimir y no recibe ningún argumento e imprime en pantalla “Hola Mundo”.
@@ -22,5 +24,5 @@ b.	El método se llama sePuedeDividir y recibe como argumento dos números enter
 
 
 
-"No soy el autor de estos ejercicios" 
+
 
